@@ -43,7 +43,6 @@ namespace BF_Launcher
             GameVersion();
             LuncherVersion();
             CheckConnection();
-
             Checker Checker = new Checker();
             Checker.KeyChecker();
 

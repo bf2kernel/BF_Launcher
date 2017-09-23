@@ -24,6 +24,7 @@ namespace BF_Launcher
                 MessageBox.Show("OS error");
             }
         }
+
         #endregion
 
         #region /* KeyChecker */
@@ -76,6 +77,7 @@ namespace BF_Launcher
                 MessageBox.Show("File bf2.exe not found!");
             }
         }
+
         #endregion
     }
 }

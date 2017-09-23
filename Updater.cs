@@ -8,5 +8,6 @@ namespace BF_Launcher
 {
     class Updater
     {
+
     }
 }
